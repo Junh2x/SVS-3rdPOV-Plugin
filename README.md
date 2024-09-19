@@ -25,7 +25,7 @@ F5키 입력을 통한 시점 대상 NPC 전환
 - 3인칭 시점 모드에서는 맵 이동 버튼 UI가 비활성화되지만, 대화 및 이벤트 후 다시 생성되는 문제 (임시 조치: F4 토글을 다시 실행해 제거 가능)  
 
 설치 방법  
-1. Release 탭에서 모드 압축 파일을 다운로드 받고 압축 해제합니다.  
+1. Release 탭(<a href="https://github.com/Junh2x/SVS-3rdPOV-Plugin/releases">다운로드</a>)에서 모드 압축 파일을 다운로드 받고 압축 해제합니다.  
 2. 게임 폴더 내 "BepInEx\plugins\"폴더로 thirdPersonCam.dll 파일을 옮깁니다.  
 3. 게임 실행 후, map 씬에서 F4키로 Toggle하고, F5키로 타겟 NPC를 전환합니다.  
 
