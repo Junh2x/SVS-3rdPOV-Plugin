@@ -1,6 +1,4 @@
 # SVS-3rdPOV-Plugin
----
-
 ## 한국어
 
 ***Test Version***  
