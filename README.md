@@ -9,14 +9,15 @@
 SVS 3인칭 시점 모드는 **Summer Vacation Scrambled(SVS)** 게임에 3인칭 시점 카메라 모드를 도입하는 플러그인입니다.
 <br><br>
 
-## 주요 기능  
-- **F4키**: 3인칭 시점과 맵 뷰 전환  
-- **F5키**: 시점 대상 NPC 전환  
-- **마우스 휠 클릭 + 드래그**: X, Y축 조정  
-- **마우스 좌클릭 + 우클릭 + 드래그**: Z축 조정  
-- **마우스 우클릭 + 드래그**: 기준점에 대한 카메라 상대 위치 조정  
+## 조작법
+- **F4 키**: 3인칭 시점과 맵 뷰 전환  
+- **F5 키**: 시점 대상 NPC 전환  
+- **마우스 이동**: 카메라 방향 조정
 - **마우스 휠 업/다운**: 카메라 확대 및 축소  
-- **캐릭터 이동**: W, A, S, D키 이동 / Left Shift 달리기  
+- **W, A, S, D**: 캐릭터 이동
+- **Left Shift**: 달리기
+- **E 키**: NPC 상호작용
+- **Left Alt 키**: 마우스 커서 활성화
 <br><br>
 
 ## 주의사항  
@@ -53,15 +54,17 @@ This is a test version. It may have bugs or missing features, and it is released
 The SVS 3rd Person View Mode is a plugin that introduces a third-person camera mode to the **Summer Vacation Scrambled (SVS)** game.
 <br><br>
 
-## Main Features  
-- **F4 Key**: Toggle between 3rd person view and map view  
-- **F5 Key**: Switch NPC for camera focus  
-- **Mouse Wheel Click + Drag**: Adjust X and Y axis  
-- **Left + Right Click + Drag**: Adjust Z axis  
-- **Right Click + Drag**: Adjust camera position relative to the target  
-- **Mouse Wheel Up/Down**: Zoom in/out  
-- **Character Movement**: Move with W, A, S, D keys / Run with Left Shift
+## Controls
+- **F4 Key**: Toggle third-person view and map view  
+- **F5 Key**: Switch target NPC for camera focus  
+- **Mouse Movement**: Adjust camera direction  
+- **Mouse Wheel Up/Down**: Zoom in and out  
+- **W, A, S, D**: Move character  
+- **Left Shift**: Sprint  
+- **E Key**: Interact with NPC  
+- **Left Alt Key**: Activate mouse cursor  
 <br><br>
+
 
 ## Notes  
 - **Backup Required**: Please backup your game files before installing the plugin.  
