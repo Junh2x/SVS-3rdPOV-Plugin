@@ -3,6 +3,10 @@
 
 ***Test Version***  
 테스트 버전입니다. 아직 부족한 점과 버그가 있을 수 있습니다. 테스트와 피드백을 위해 배포합니다.
+
+현재 v0.0.3 버전에서는 해결해야할 버그가 있습니다.
+퇴근 후 작업을 조금씩 하고 있으며, 다음 업데이트에는 시간이 꽤 소요될 것 같습니다. 
+
 <br><br>
 
 ## 개요  
@@ -49,7 +53,7 @@ SVS 3인칭 시점 모드는 **Summer Vacation Scrambled(SVS)** 게임에 3인�
 ***Test Version***  
 This is a test version. It may have bugs or missing features, and it is released for testing and feedback purposes.
 <br><br>
-
+There are some bugs that need to be fixed in the current v0.0.3 version. I'm working on it little by little after work, and I think the next update will take quite some time.
 ## Overview  
 The SVS 3rd Person View Mode is a plugin that introduces a third-person camera mode to the **Summer Vacation Scrambled (SVS)** game.
 <br><br>
